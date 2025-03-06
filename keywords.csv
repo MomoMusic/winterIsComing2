@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.2307904507772269
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.2299049852325786
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.2288442326773436
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.2284641302582797
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.201021888612062
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.1978965044724125
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.19729549340881
+'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.19647191316064286
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.1946805033683891
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.191599527072042
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.191491989556944
