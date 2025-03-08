@@ -29,5 +29,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.1649680268818569
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.163874372454125
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.1628437442056778
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.16213186239824207
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.1601655508479281
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.1378120830385057
