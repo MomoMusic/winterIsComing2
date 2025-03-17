@@ -1,8 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
 deutschen,deutschen,MISC,,,de,5
 Ostsee-Sturmflut,Ostsee-Sturmflut,MISC,,,de,5
-schleswig-holsteinische,schleswig-holsteinische,MISC,,,de,4
 Hamburger,Hamburger,MISC,,,de,4
+schleswig-holsteinische,schleswig-holsteinische,MISC,,,de,4
 Sturm auf der Ostsee,Sturm auf der Ostsee,MISC,,,de,3
 deutsche,deutsche,MISC,,,de,3
 Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,2
@@ -17,15 +17,16 @@ Sturmflut,Sturmflut,MISC,0.0,0.0,de,2
 Wind aus Nordwest,Wind aus Nordwest,MISC,,,de,2
 Ostseesturmflut,Ostseesturmflut,MISC,,,de,2
 Sturm über Norddeutschland:,Sturm über Norddeutschland:,MISC,,,de,2
-Eine schwere Sturmflut,Eine schwere Sturmflut,MISC,,,de,1
 Lesen Sie jetzt „Historiker:,Lesen Sie jetzt „Historiker:,MISC,,,de,1
+Eine schwere Sturmflut,Eine schwere Sturmflut,MISC,,,de,1
 Große Halligflut,Große Halligflut,MISC,,,de,1
 200 Jahre später sollen Computer,200 Jahre später sollen Computer,MISC,,,de,1
 Lesen Sie jetzt „Nach der Sturmflut - Deckwerk,Lesen Sie jetzt „Nach der Sturmflut - Deckwerk,MISC,,,de,1
 Kräftiger Wind,Kräftiger Wind,MISC,,,de,1
+"Lesen Sie jetzt „""Brutal","Lesen Sie jetzt „""Brutal",MISC,,,de,1
 Sturmtief „Bernd,Sturmtief „Bernd,MISC,,,de,1
 Lesen Sie jetzt „Warnung vor leichter Sturmflut,Lesen Sie jetzt „Warnung vor leichter Sturmflut,MISC,,,de,1
-"Lesen Sie jetzt „""Brutal","Lesen Sie jetzt „""Brutal",MISC,,,de,1
+Die Mädchen …,Die Mädchen …,MISC,,,de,1
 Lesen Sie jetzt „Sturmflutwarnung - Sperrwerk,Lesen Sie jetzt „Sturmflutwarnung - Sperrwerk,MISC,,,de,1
 Das Sturmtief „Bernd,Das Sturmtief „Bernd,MISC,,,de,1
 schleswig-holsteinischen,schleswig-holsteinischen,MISC,,,de,1
@@ -46,4 +47,4 @@ Nordsee-Fähren,Nordsee-Fähren,MISC,,,de,1
 Lesen Sie jetzt „Leichte Sturmflut,Lesen Sie jetzt „Leichte Sturmflut,MISC,,,de,1
 Eine Sturmflut,Eine Sturmflut,MISC,,,de,1
 Lesen Sie jetzt „Sturm,Lesen Sie jetzt „Sturm,MISC,,,de,1
-Die Mädchen …,Die Mädchen …,MISC,,,de,1
+Abschied von den Toten,Abschied von den Toten,MISC,,,de,1
