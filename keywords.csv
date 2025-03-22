@@ -8,12 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.1475604279744101
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.1463426642519609
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.1454933400222147
-'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.14531565319362974
+'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.1453156531936297
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.1448876336137178
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.144645390981318
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.1425459939878652
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.1421122412309573
-'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.1416991733448659
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.1406728678495784
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.1406473502304735
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.1392932165860062
@@ -26,6 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.1291814958121557
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.1252283749102572
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.1248110080971865
+'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.12119437234313601
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.1195581641311119
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.1194571842287675
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.117512289737628
