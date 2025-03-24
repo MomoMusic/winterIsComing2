@@ -1,4 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Ruhige Sturmflutsaison,Ruhige Sturmflutsaison,PER,0.7,0.0,de,2
 Tobias Goldschmidt,Tobias Goldschmidt,PER,0.0,0.0,de,1
 Thomas Mann,Thomas Mann,PER,-1.0,0.0,de,1
 Henning Hünerbein,Henning Hünerbein,PER,0.0,0.0,de,1
