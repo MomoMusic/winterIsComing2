@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.1198719676721416
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.1195581641311119
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.1194571842287675
-'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.1183992340981052
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.1181550735866581
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.1176546051886021
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.117512289737628
+'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.10063934898338942
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0995692299953203
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0897814596176788
-'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.08895057276791576
+'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0889505727679157
