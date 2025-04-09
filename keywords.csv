@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.1119877044480401
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.1090379255568031
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.1065651581720417
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.1052113654840022
@@ -8,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.10001615062865
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0994579637592263
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0975647727765159
+'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.09593962378083408
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0906205478297846
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0900145387786425
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0897509451680243
@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0846338454960222
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0846338454960222
 'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0807545607268663
-'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.07968001158490703
+'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.079680011584907
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.07933358611564
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0771417743292616
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0766495603476846
