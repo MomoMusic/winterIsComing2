@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0751395612228173
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.073423657547019
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0734187958662459
-'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0733338117414063
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0727119296404987
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0689281298471709
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.065654427574819
+'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.06263376998019535
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0573185159685498
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0551370388877068
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0407485749987357
