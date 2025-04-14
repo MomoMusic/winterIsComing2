@@ -10,7 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0897509451680243
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0875410585577976
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0873125671431222
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.08630781560528444
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0853584118209512
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.085247713565962
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0850137280343525
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0751395612228173
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.073423657547019
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0734187958662459
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.07336164326449174
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0727119296404987
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.065654427574819
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0626337699801953
