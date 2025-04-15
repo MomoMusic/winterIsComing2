@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0956309068145809
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0910304294462354
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0906205478297846
-'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0900145387786425
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0898797056614018
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0897509451680243
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0875410585577976
@@ -13,10 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0850301420854362
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0850137280343525
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0850054522487649
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0846338454960222
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0846338454960222
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0846338454960222
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0829300568600385
 'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0807545607268663
+'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.07696240296184612
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0766495603476846
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0751395612228173
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.073423657547019
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0726105715310677
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0692783975575716
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.065654427574819
-'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.06557050817987235
+'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0655705081798723
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0626337699801953
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0551370388877068
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0487207385732673
