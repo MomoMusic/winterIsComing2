@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.07927125535749391
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0779759250293
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0769624029618461
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0724256357726207
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.0722417366178363
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0719387686716188
+'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.06798062705386981
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0654733458070193
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0651000833838975
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0632484148080087
