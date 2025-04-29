@@ -21,13 +21,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0530161934311963
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0519757603652445
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.050929421169171
-'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.05021060142280668
+'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0502106014228066
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0487207385732673
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0470724112485217
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0464226107859626
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0460557473016293
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0453596796581103
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0446542137904711
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0443733773579317
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.04001154956124344
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.039836510596368
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0250247186210985
