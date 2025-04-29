@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0453596796581103
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0446542137904711
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0443733773579317
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.04001154956124344
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0400115495612434
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.039836510596368
-'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0250247186210985
+'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.021271010827933725
