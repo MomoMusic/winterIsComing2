@@ -8,10 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0530161934311963
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0530037872585952
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0526050495957184
-'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.05220905572909666
+'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0522090557290966
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0511637532353454
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0502261140464209
-'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0487207385732673
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0483798893009119
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0473044923455714
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0464679778496197
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0441793963104578
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0441793963104578
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0441791612093856
+'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0417126577872772
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.039836510596368
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0391473852063849
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0383250703096544
