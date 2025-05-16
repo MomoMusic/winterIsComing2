@@ -22,12 +22,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.036082360223781
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0357557891191856
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0338178640428579
-'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.033275277425427165
+'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0332752774254271
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0331732609400992
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0330498963029846
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0325784669167928
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0322626694636153
-'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0296503331397026
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.027000009327556
+'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.02535279816874721
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0245720928742984
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0180803592037436
