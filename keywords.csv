@@ -28,6 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0204351797488903
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0200072509952752
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0197850344891592
-'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.01920800652501435
+'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0192080065250143
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0180803592037436
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0177533371016805
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.015090336536428424
