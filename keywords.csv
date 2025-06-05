@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0280636576575169
 'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0276928348679655
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0275522926323999
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0272249273435693
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0245329587479878
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0244645970699944
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0238785500789063
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.023854109008889367
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0236151107694929
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0235363838039164
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0231654353876086
