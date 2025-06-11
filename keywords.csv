@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0183173966769198
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0180803592037436
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.017853650191397
-'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0177318458605247
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0176756713830709
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0173699027865567
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0172345937589225
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.01700616334598392
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0170061633459839
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0169672943157853
+'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.015222083981445995
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0150903365364284
