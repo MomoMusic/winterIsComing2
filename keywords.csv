@@ -1,11 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.038097498554606125
+'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0380974985546061
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0234194487375399
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0231631803144487
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0221010729855389
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0214820294826785
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0209892545588455
-'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0208695951780762
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0208530149357896
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0204809147123383
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0202967675670703
@@ -13,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0199475377557288
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0198133118843427
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0196323536869864
-'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0196026328459929
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0196026328459929
+'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0196026328459929
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0192080065250143
 'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0192008315882892
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0188781487804686
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0183173966769198
 'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0180803592037436
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.017853650191397
+'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.01773915590136477
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0176756713830709
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0173699027865567
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0172345937589225
