@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0056664152654009
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0054471817004508
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0053649850906396
-'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0053415317163524
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0051406043825724
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0046962635022035
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0045594270874464
-'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.004409077428158184
+'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.00454030195889954
+'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0044090774281581
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0040321678843445
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0034951776669532
