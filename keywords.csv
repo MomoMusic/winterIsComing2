@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.028734174340367
+'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.02727433318931195
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0126515409051511
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.010065264142589
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0098063634956337
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0045403019588995
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0044090774281581
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0034951776669532
-'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.003427342701692825
+'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0034273427016928
