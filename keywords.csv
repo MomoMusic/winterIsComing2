@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0226567204900281
+'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.021808467416523886
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0126515409051511
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0083763349040592
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0074725809801067
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0034951776669532
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0034273427016928
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0033930503803419
-'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.003280368165304825
+'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0032803681653048
