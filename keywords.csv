@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.02801531075844319
-'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0068377031933093
+'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0280153107584431
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.0066903140557959
+'Sturmflut Schäden',de,Impacts,#a89216,#87830f,1,0.0061120777143129044
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0060519019681827
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0059165904384466
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0055762708796005
