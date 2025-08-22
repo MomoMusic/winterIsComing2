@@ -17,11 +17,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0047837265417304
 'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0046301044453831
 'Sturmflut Zerstörung',de,Impacts,#a89216,#a89216,1,0.0045602373270436
-'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.0045498421615276
-'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0045338356950192895
+'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0045338356950192
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0044090774281581
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0041496750077117
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0040439812516439
+'Sturmflut Sturmtief',de,Causes,#679e2c,#7db344,1,0.00401738083729846
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0038755130243294
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0038261198282364
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0037140866664085
