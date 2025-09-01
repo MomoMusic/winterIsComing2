@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0035124099405039
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0034951776669532
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0034022168540009
-'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0033237196499400845
-'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0032941860706799
+'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.00332371964994
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0031347403886026
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0029132412964388
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0028008283992039
+'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.002800058160077915
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0023700659994326
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0020837570648274
