@@ -20,12 +20,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0035272237565549
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0035124099405039
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0034951776669532
-'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0034798872748641
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0034022168540009
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.00332371964994
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.00322937648002082
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0032293764800208
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.0031569736664472
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0031347403886026
+'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0029579041836344847
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0028008283992039
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0028000581600779
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0024762551019729
