@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0024581016770155
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0023807041393233
 'Sturmflut Wiederaufbau',de,Mitigation,#9e3215,#802d16,1,0.0023800494360662
-'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.00213708577267582
 'Sturmflut Überflutung',de,Impacts,#a89216,#a89216,1,0.0021048168366769
+'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.00181652290677443
 'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0017711935051032
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.00171237268459
