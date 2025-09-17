@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Sturmflut',de,Hazard,#4287f5,#638ed4,1,0.0120522590367142
+'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.013694765181207071
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0046083238158937
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0037961094960149
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0035385421875592
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0026789151970816
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0026054986894851
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0025484191641108
-'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.00252526586437367
+'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0025252658643736
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0025172427055797
 'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0024581016770155
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0023955382525482
