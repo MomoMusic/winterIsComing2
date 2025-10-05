@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.0450002248738097
-'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0263049856057298
+'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.03460946276487033
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,1,0.0169708697129549
 'Sturmflut Schäden',de,Impacts,#a89216,#87830f,2,0.0121802148556871
-'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.01194115337967533
+'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,1,0.0119411533796753
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,1,0.0103990838537546
 'Sturmflut Klimawandel',de,Causes,#679e2c,#477515,1,0.0049989960414852
 'Sturmflut Folgen',de,Impacts,#a89216,#a89216,1,0.0033788638547812
