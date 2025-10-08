@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.06249101860455791
 'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.053080911387466
-'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.052322608162225
 'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.0450002248738097
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.0378280180999967
 'Sturmflut Wellen',de,Impacts,#a89216,#a89216,1,0.0346094627648703
@@ -30,4 +30,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0013302907312854
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0013124378001444
 'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0012371892646162
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0009245740796231899
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0009245740796231
