@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0030202168608707
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0030062451919203
 'Sturmflut Pegel',de,Hazard,#4287f5,#3b4a63,1,0.0029855484494283
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.002619692692397
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.00282679878853745
 'Sturmflut Tote',de,Impacts,#a89216,#87830f,1,0.0024049681504896
 'Sturmflut Warnung',de,Mitigation,#9e3215,#802d16,1,0.0021453121291058
 'Sturmflut Sperrwerk',de,Mitigation,#9e3215,#9e3215,1,0.002144761399694
