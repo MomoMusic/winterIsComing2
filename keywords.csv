@@ -29,5 +29,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Rettungskräfte',de,Mitigation,#9e3215,#9e3215,1,0.0016451887954076
 'Sturmflut Sturmschäden',de,Impacts,#a89216,#a89216,1,0.0013302907312854
 'Sturmflut Sandsäcke',de,Mitigation,#9e3215,#b55035,1,0.0013124378001444
-'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.0012371892646162
-'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0007858879676796351
+'Sturmflut Fährverbindung',de,Impacts,#a89216,#a89216,1,0.00120162587492377
+'Sturmflut Springflut',de,Causes,#679e2c,#7db344,1,0.0007858879676796
