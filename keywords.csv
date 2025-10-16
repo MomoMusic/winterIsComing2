@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Sturmflut',de,Hazard,#4287f5,#638ed4,3,0.05229273523364733
 'Sturmflut Sturmböen',de,Causes,#679e2c,#61b00c,2,0.0459052662411642
-'Sturmflut',de,Hazard,#4287f5,#638ed4,2,0.0450002248738097
 'Sturmflut Hochwasser',de,Impacts,#a89216,#a89216,2,0.0437181796297922
-'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.03722927775582748
+'Sturmflut Verletzte',de,Impacts,#a89216,#87830f,1,0.0372292777558274
 'Sturmflut Nordsee',de,Hazard,#4287f5,#638ed4,2,0.0357204954747696
 'Sturmflut Tief',de,Causes,#679e2c,#7db344,1,0.029797585091856
 'Sturmflut Fährausfälle',de,Impacts,#a89216,#a89216,1,0.0267768783151275
