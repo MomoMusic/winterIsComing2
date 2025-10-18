@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturmflut Einsatzkräfte',de,Mitigation,#9e3215,#d64118,1,0.0038306131899664
 'Sturmflut Sand',de,Impacts,#a89216,#a89216,1,0.0036701106459099
 'Sturmflut Deiche',de,Mitigation,#9e3215,#802d16,1,0.0035646193303122
-'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.0033877728326087
-'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0033055232452588548
+'Sturmflut Evakuierung',de,Mitigation,#9e3215,#802d16,1,0.003479666907717395
+'Sturmflut Hurrikan',de,Causes,#679e2c,#679e2c,1,0.0033055232452588
 'Sturmflut Küstenschutz',de,Mitigation,#9e3215,#b55035,1,0.0031312507859194
 'Sturmflut Ostsee',de,Hazard,#4287f5,#638ed4,1,0.0030202168608707
 'Sturmflut Starkregen',de,Causes,#679e2c,#477515,1,0.0030062451919203
